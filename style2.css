@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(164, 151, 248);
+    color: aliceblue;
+    padding:30px;
+}
+
+h2{
+    background-color: rgb(155, 117, 190);
+    color: aliceblue;
+}
+p{
+    width:450px;
+}
+
+nav{
+    position:fixed;
+    top:0;
+    z-index:999;
+}
